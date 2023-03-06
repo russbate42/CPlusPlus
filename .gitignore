@@ -1,1 +1,4 @@
 # Empty gitignore
+
+## CERN COURSE IS ITS OWN REPO
+CERN_course/*
